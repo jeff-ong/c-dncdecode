@@ -1,12 +1,4 @@
-/*
-# dnadecode.sh
-# Boon Keat Ong
-# Student ID : 500928439
-# Assignment #2 - DNA Decode
-# CCPS 309 Section 3J0
-# Instructor : L.Hiraki
-# Purpose : To decodes a sequence of DNA
-*/
+
 
 #include <stdio.h>
 #include <string.h>
